@@ -6,5 +6,4 @@
 
 bool doAnotherRect(double&, double&);
 void displayRect(Rectangle&);
-double validateDouble(string&);
 

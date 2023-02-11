@@ -1,7 +1,7 @@
 //----------------------------------------------------------------------
 // rectio.cpp : i/o utility functions for Rectangle class
 //----------------------------------------------------------------------
-#include "rectio.h"
+#include "Rectangle.h"
 
 #include <iomanip>
 #include <iostream>
@@ -13,6 +13,11 @@ using std::cin;
 using std::cout;
 using std::fixed;
 using std::setprecision;
+
+//----------------------------------------------------------------------
+// local function prototypes
+//----------------------------------------------------------------------
+double validateDouble(string&);
 
 //----------------------------------------------------------------------
 // display Rectangle data
