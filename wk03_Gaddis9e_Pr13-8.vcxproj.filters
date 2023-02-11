@@ -21,9 +21,15 @@
     <ClCompile Include="source\Pr13-8.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="source\rectio.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="source\Rectangle.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="source\rectio.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
